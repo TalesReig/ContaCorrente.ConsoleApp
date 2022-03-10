@@ -1,6 +1,6 @@
 # ContaCorrente.ConsoleApp
 
-#Conta Corrente
+# Conta Corrente
 
 Uma conta corrente possui um número, um saldo, um status que
 informa se ela é especial ou não, um limite e um conjunto de
